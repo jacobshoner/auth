@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jacobshoner/Documents/react-native/auth/node_modules/react-native/ReactCommon/cxxreact/ReactMarker.cpp \
-  /Users/jacobshoner/Documents/react-native/auth/node_modules/react-native/ReactCommon/cxxreact/ReactMarker.h
+  /Users/jacobshoner/workspace/ReactNativeWorkspace/prod/auth/node_modules/react-native/ReactCommon/cxxreact/ReactMarker.cpp \
+  /Users/jacobshoner/workspace/ReactNativeWorkspace/prod/auth/node_modules/react-native/ReactCommon/cxxreact/ReactMarker.h
